@@ -366,7 +366,7 @@ class VideoCarousel extends HTMLElement {
             </div>
             <div class="video-container">
               <slot></slot>
-              <div class="speed-badge">1x Speed</div>
+              <div class="speed-badge"></div>
             </div>
             <div class="navigation-controls">
               <button class="nav-button prev-video">
