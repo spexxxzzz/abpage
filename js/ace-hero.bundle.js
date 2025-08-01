@@ -18268,14 +18268,14 @@
                         children: [
                             (0, ua.jsx)("h1", {
                                 className: "text-5xl sm:text-7xl md:text-8xl lg:text-8xl max-w-xl md:max-w-2xl mx-auto text-zinc-100/95 mb-1 sm:mb-2 font-medium tracking-tight leading-tight metallic-text",
-                                children: "AutoBro",
+                                children: "autobro",
                             }),
                             (0, ua.jsx)(Xi, {
                                 duration: 0.1,
                                 delay: 0.3,
                                 animationType: "typewriter",
                                 staggerChildren: 0.01,
-                                children: (0, ua.jsx)("p", { className: "text-xl sm:text-3xl md:text-3xl lg:text-3xl text-zinc-300 max-w-3xl mx-auto mb-6 sm:mb-8 leading-normal font-medium", children: "Your AI WorkAgent " }),
+                                children: (0, ua.jsx)("p", { className: "text-xl sm:text-3xl md:text-3xl lg:text-3xl text-zinc-300 max-w-3xl mx-auto mb-6 sm:mb-8 leading-normal font-medium", children: "digital work automation" }),
                             }),
                         ],
                     }),
